@@ -16,14 +16,14 @@ When  users day is done, they can press clear and all data will be erased from t
 
 
 
-Deployed site/Website URL: 
+Deployed site/Website URL: https://misachka.github.io/workday-scheduler/
 
 ![Alt text](image.png)
 
 ## Credits
 
 Used module 5 activities as a reference. 
-
+https://momentjs.com/
 
 ## License
 
